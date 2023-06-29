@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm YuGe</h1>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  A software developer who passionate about programming. 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
