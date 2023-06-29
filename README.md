@@ -1,6 +1,5 @@
 <h2 align="center">Hi, I'm YuGe</h1>
 
-***
 <p align="center">
   A software developer who passionate about programming. 
 </p>
