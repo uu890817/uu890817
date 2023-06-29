@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm YuGe</h1>
+<h2 align="center">Hi, I'm YuGe</h1>
+
+***
 <p align="center">
   A software developer who passionate about programming. 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Using Languages And Tools:</h3>
 
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -22,7 +24,7 @@
 
 
 
----
+***
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uu890817&show_icons=true&theme=dracula&locale=en&layout=compact" alt="uu890817" /></p>
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uu890817&show_icons=true&theme=onedark&locale=en" alt="uu890817" /></p>
